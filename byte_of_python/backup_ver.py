@@ -1,3 +1,6 @@
+# Check conflict this file
+# I don't guess anything it will be
+#
 import os
 import time
 
